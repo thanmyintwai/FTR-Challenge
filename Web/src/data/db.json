@@ -1,0 +1,29 @@
+{
+  "numbers": [
+    {
+      "id": "347e447c-1fef-4141-9d43-1ea9bba24239",
+      "value": 1,
+      "count": 4
+    },
+    {
+      "id": "1f88ea94-a889-4d43-aaf0-35f29be0ff93",
+      "value": 2,
+      "count": 4
+    },
+    {
+      "id": "06534424-61e2-46e8-9230-82ee0cceaad3",
+      "value": 3,
+      "count": 2
+    }
+  ],
+  "positions": [
+    {
+      "id": 1,
+      "numberId": "5ebb200a-a05a-4382-96b8-59861da8d5dc"
+    },
+    {
+      "numberId": "1ef4f810-4397-4973-b239-428a1c598fc4",
+      "id": 2
+    }
+  ]
+}
